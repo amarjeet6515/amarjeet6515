@@ -4,7 +4,7 @@
 Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.
 
 ## 🔭 Projects:
-Bewakoof : Bewakoof.com is an Indian online fashion and lifestyle brand that primarily caters to the youth demographic.
+Bewakoof : Bewakoof.com is an Indian online fashion and lifestyle brand that primarily caters to the youth demographic.     
 
 Healthkart : HealthKart is an Indian online platform that focuses on health and wellness products, including dietary supplements, vitamins, minerals, fitness supplements, and more.
 
