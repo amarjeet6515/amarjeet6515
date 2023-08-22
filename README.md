@@ -3,6 +3,12 @@
 💫 About Me:
 Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.
 
+🔭 Projects
+Bewakoof : Bewakoof.com is an Indian online fashion and lifestyle brand that primarily caters to the youth demographic.
+Healthkart : HealthKart is an Indian online platform that focuses on health and wellness products, including dietary supplements, vitamins, minerals, fitness supplements, and more.
+Ecotourism : It is an e-commerce website, that offers ecotourism packages.
+
+
 ## 📫 How to Reach Me
 - Email: amarjeetray6515@gmail.com
 - Portfolio: [https://amarjeet6515.github.io](https://amarjeet6515.github.io)
